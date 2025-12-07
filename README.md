@@ -17,7 +17,6 @@ I'm a **Full-Stack Developer** specializing in **Node.js, Nest.js, and Express.j
 
 **Backend:** Node.js, Nest.js, Express.js
 **Database:** MongoDB, PostgreSQL
-**Frontend:** React.js, Next.js (if applicable)
 **DevOps & Tools:** Docker, GitHub Actions, Git
 **Languages:** JavaScript, TypeScript
 
@@ -34,23 +33,11 @@ I'm a **Full-Stack Developer** specializing in **Node.js, Nest.js, and Express.j
 
 Here are some of my key projects:
 
-### [RialPayment](https://github.com/OmidRezazadeh/RialPayment)
+
 
 > Payment gateway backend built with Node.js and Nest.js
 > **Features:** Secure API, transaction logging, modular architecture
 
-### [Project 2 Name](link)
 
-> Short description of the project with main technologies
-
-
-
-Make your GitHub profile **stand out by regularly updating your projects** and keeping your pinned repos relevant.
-
----
-
-If you want, I can also **suggest a polished “Pinned Repos” layout with badges and screenshots** for your top projects to make the profile visually stunning. It would look very modern and professional.
-
-Do you want me to do that next?
 
   
