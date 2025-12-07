@@ -3,8 +3,20 @@
 # Hi there, I'm Omid Rezazadeh 👋
 
 ## About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=3000&duration=5000&width=600&lines=I+am+a+Backend+and+software+developer.)
 
-I'm a **Full-Stack Developer** specializing in **Node.js, Nest.js, and Express.js**. I enjoy building scalable web applications, APIs, and exploring new technologies to solve real-world problems.
+ ### Languages
+![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 * 🌱 Currently learning **Advanced Nest.js, Microservices, and TypeScript best practices**
 * 🔭 Working on: [RialPayment](https://github.com/OmidRezazadeh) (example link to your main project)
